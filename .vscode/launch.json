@@ -1,0 +1,28 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "App_gt_pessoal-main",
+            "cwd": "App_gt_pessoal-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "App_gt_pessoal-main (profile mode)",
+            "cwd": "App_gt_pessoal-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "App_gt_pessoal-main (release mode)",
+            "cwd": "App_gt_pessoal-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>3501013568-df74opun7u3775je8vjg9jn57umfjnfn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.3501013568-df74opun7u3775je8vjg9jn57umfjnfn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvVpGD8sdDNGugCuk_KQIY6aKKIfoG01c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>3501013568</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nota</string>
+	<key>PROJECT_ID</key>
+	<string>bdnote-9f723</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bdnote-9f723.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:3501013568:ios:4069ad20910cf25f683da5</string>
+	<key>DATABASE_URL</key>
+	<string>https://bdnote-9f723-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
